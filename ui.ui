@@ -103,9 +103,9 @@
     <widget class="QLineEdit" name="searchTermInput">
      <property name="geometry">
       <rect>
-       <x>100</x>
+       <x>110</x>
        <y>60</y>
-       <width>191</width>
+       <width>171</width>
        <height>22</height>
       </rect>
      </property>

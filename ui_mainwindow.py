@@ -54,7 +54,7 @@ class Ui_MainWindow(object):
         self.maxSearchSpinBox.setMaximum(1000)
         self.searchTermInput = QLineEdit(self.groupBox)
         self.searchTermInput.setObjectName(u"searchTermInput")
-        self.searchTermInput.setGeometry(QRect(100, 60, 191, 22))
+        self.searchTermInput.setGeometry(QRect(110, 60, 171, 22))
         self.label_4 = QLabel(self.groupBox)
         self.label_4.setObjectName(u"label_4")
         self.label_4.setGeometry(QRect(10, 60, 81, 21))
