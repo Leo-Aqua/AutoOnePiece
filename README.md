@@ -1,7 +1,16 @@
 # AutoOnePiece
+
+<img src="icon.png" alt="icon" width="200"/>
+
 A silly little program for Jimmy here
 
 Used to find Youtube Videos with one piece in it.
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Leo-Aqua/AutoOnePiece) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Leo-Aqua/AutoOnePiece) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Leo-Aqua/AutoOnePiece)
+![GitHub Created At](https://img.shields.io/github/created-at/Leo-Aqua/AutoOnePiece)
+![GitHub last commit](https://img.shields.io/github/last-commit/Leo-Aqua/AutoOnePiece)
 
 # Installation
 
@@ -16,6 +25,3 @@ Used to find Youtube Videos with one piece in it.
 
 `python main.py`
 
-## Known issues
-
-- Program freezes when searching/downloading
